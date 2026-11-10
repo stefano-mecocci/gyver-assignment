@@ -1,0 +1,217 @@
+[
+  {
+    "job_offer_id": "jo_001",
+    "channel": "indeed",
+    "format": "text_only",
+    "target_location": null,
+    "angle": null,
+    "generated_content": {
+      "headline": "Tecnico Elettricista Fotovoltaico MT/BT - Carriera stabile in AB Group",
+      "highlights": [],
+      "body": "AB Group cerca un tecnico elettricista per un ruolo a tempo indeterminato presso la sede di Orzinuovi (BS). L'azienda è un gruppo multinazionale leader nel settore della cogenerazione, biogas e energie rinnovabili. L'azienda vanta una presenza in 20 Paesi e conta oltre 1.700 dipendenti.\n\nIl ruolo:\n- Ti occuperai della costruzione e avviamento di grandi impianti fotovoltaici, supportando il coordinamento delle attività in cantiere.\n- Dovrai effettuare sopralluoghi tecnici, raccogliere informazioni dal campo e redigere report di criticità per l'Engineering.\n- Sarai responsabile del collaudo, dei test funzionali e dell'avviamento dell'impianto, verificando la corretta esecuzione.\n- Interverrai in campo per la manutenzione in caso di guasti tecnici, garantendo il rispetto delle regole HSE.\n\nCosa ti offre l'azienda:\n- Una stabilità contrattuale garantita con un contratto a tempo indeterminato.\n- Una retribuzione lorda che varia tra 32.000 € e 38.000 € in base all'esperienza.\n- Viaggi giornalieri frequenti sono previsti, oltre a indennità notturne per trasferte di più giorni.\n- L'opportunità di far parte di un gruppo internazionale, leader nella realizzazione di grandi impianti.",
+      "bullet_points": [
+        "Diploma tecnico in elettrotecnica",
+        "Esperienza di 3-5 anni in installazione e avviamento di impianti FV",
+        "Conoscenza di cabine secondarie e sistemi di media tensione",
+        "Capacità di leggere schemi elettrici e layout FV",
+        "Esperienza pratica con impianti superiori ai 100 kW e strumentazione di verifica"
+      ],
+      "call_to_action": "Se il tuo profilo corrisponde ai requisiti, invia il tuo CV tramite la piattaforma Indeed e scopri di più su questo ruolo.",
+      "visual_brief": null
+    },
+    "status": "published",
+    "edited_content": null
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "instagram",
+    "format": "image_only",
+    "image_size": "square",
+    "target_location": null,
+    "angle": "entrare in una multinazionale",
+    "generated_content": {
+      "headline": "AB Group: FV in grandi impianti. 💡",
+      "highlights": [
+        "Lavoro stabile e in crescita",
+        "Progetti FV oltre 100 kW",
+        "RAL fino a 38.000 €"
+      ],
+      "body": "AB Group, leader europeo, offre un contratto a tempo indeterminato ad Orzinuovi (BS).",
+      "bullet_points": [
+        "Competenze su impianti MT/BT",
+        "Possibilità di trasferte"
+      ],
+      "call_to_action": "Candidati qui",
+      "visual_brief": "Un tecnico giovane e dinamico in un contesto industriale ad alta tecnologia (impianto fotovoltaico). L'atmosfera deve essere ambiziosa, moderna, utilizzando colori come il blu e l'arancione. L'inquadratura deve essere professionale e potente."
+    },
+    "status": "draft",
+    "edited_content": null
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "tiktok",
+    "format": "image_only",
+    "image_size": "vertical",
+    "target_location": {
+      "locality": "Brescia",
+      "province": "Brescia",
+      "province_code": "BS",
+      "region": "Lombardia",
+      "country_code": "IT"
+    },
+    "angle": "impianti fotovoltaici oltre 100 kW",
+    "generated_content": {
+      "headline": "Stop! Lavori su impianti >100 kW.",
+      "highlights": [
+        "Impianti fotovoltaici di grandi dimensioni",
+        "Contratto fisso in multinazionale",
+        "Retribuzione 32.000 - 38.000 €"
+      ],
+      "body": "AB Group cerca tecnici elettricisti in crescita a Brescia.",
+      "bullet_points": [
+        "Esperienza richiesta in MT/BT",
+        "Mansioni di collaudo e avviamento"
+      ],
+      "call_to_action": "Scopri l'offerta",
+      "visual_brief": "Illustrazione dinamica e ad alta energia. Un tecnico giovane, in abbigliamento da lavoro, in piedi accanto a una fila di pannelli solari di grandi dimensioni. L'atmosfera è professionale e avanguardistica. Colori dominanti: blu elettrico e giallo sole."
+    },
+    "status": "draft",
+    "edited_content": null
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "instagram",
+    "format": "text_and_image",
+    "image_size": "portrait",
+    "target_location": {
+      "locality": "Cremona",
+      "province": "Cremona",
+      "province_code": "CR",
+      "region": "Lombardia",
+      "country_code": "IT"
+    },
+    "angle": null,
+    "generated_content": {
+      "headline": "Tecnico FV MT/BT: Progetti Giganti",
+      "highlights": [
+        "Carriera stabile in grandi impianti",
+        "Retribuzione 32.000 - 38.000 €",
+        "Lavoro tecnico di alto livello"
+      ],
+      "body": "AB Group cerca tecnici elettricisti che sanno gestire fotovoltaico industriale e MT/BT. Se hai 3-5 anni di esperienza, questa è la tua occasione a Cremona. L'azienda offre un contratto a tempo indeterminato e ti fa lavorare su impianti di grandi dimensioni. Se ti piace il lavoro sul campo, il collaudo e la risoluzione di criticità tecniche, troverai qui la tua sfida. L'azienda propone una RAL tra 32.000 € e 38.000 €. Sei pronto a costruire la tua carriera in un gruppo leader nel settore delle rinnovabili?",
+      "bullet_points": [
+        "Gestisci sopralluoghi e collaudi su impianti MT/BT",
+        "Interventi in cantiere su cablaggi DC/AC e quadri elettrici",
+        "Supporti la verifica tecnica e il controllo qualità",
+        "Lavori su impianti di grandi dimensioni"
+      ],
+      "call_to_action": "Scopri di più e candidati subito dal link",
+      "visual_brief": "Primo piano di un tecnico (uomo o donna) in abbigliamento da cantiere, con uno sfondo che mostra un grande parco fotovoltaico. L'atmosfera è dinamica, concentrata e professionale. Si notano schemi tecnici in primo piano."
+    },
+    "status": "draft",
+    "edited_content": null
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "whatsapp",
+    "format": "text_only",
+    "target_location": {
+      "locality": "Bergamo",
+      "province": "Bergamo",
+      "province_code": "BG",
+      "region": "Lombardia",
+      "country_code": "IT"
+    },
+    "angle": null,
+    "generated_content": {
+      "headline": "☀️ Tecnico Elettricista Fotovoltaico in AB Group a Bergamo",
+      "highlights": [],
+      "body": "Ehi! C'è una grande opportunità a Bergamo. AB Group, una multinazionale leader nel settore delle rinnovabili, sta cercando un tecnico elettricista specializzato. Se sei appassionato di grandi impianti e hai esperienza con la media tensione, questo ruolo è perfetto per te. L'azienda offre la possibilità di costruire una vera carriera, lavorando sull'avviamento e la manutenzione di impianti fotovoltaici industriali complessi. 💡",
+      "bullet_points": [
+        "Contratto a tempo indeterminato con RAL tra 32.000 € e 38.000 €",
+        "L'azienda cerca professionisti con 3-5 anni di esperienza in FV",
+        "Si lavora su impianti fotovoltaici industriali e cabine MT/BT",
+        "Previsti sopralluoghi tecnici e interventi in cantiere",
+        "Sono richieste competenze su inverter e BESS"
+      ],
+      "call_to_action": "Se ti interessa, scrivimi in privato per avere tutti i dettagli e candidarti! 😉",
+      "visual_brief": null
+    },
+    "status": "ready",
+    "edited_content": {
+      "headline": "⚡ Tecnico fotovoltaico a Bergamo: assunzione diretta in AB Group",
+      "highlights": [],
+      "body": "Ehi! C'è una grande opportunità a Bergamo. AB Group, una multinazionale leader nel settore delle rinnovabili, sta cercando un tecnico elettricista specializzato. Se sei appassionato di grandi impianti e hai esperienza con la media tensione, questo ruolo è perfetto per te. L'azienda offre la possibilità di costruire una vera carriera, lavorando sull'avviamento e la manutenzione di impianti fotovoltaici industriali complessi. 💡",
+      "bullet_points": [
+        "Contratto a tempo indeterminato con RAL tra 32.000 € e 38.000 €",
+        "L'azienda cerca professionisti con 3-5 anni di esperienza in FV",
+        "Si lavora su impianti fotovoltaici industriali e cabine MT/BT",
+        "Previsti sopralluoghi tecnici e interventi in cantiere",
+        "Sono richieste competenze su inverter e BESS"
+      ],
+      "call_to_action": "Ti interessa? Rispondi a questo messaggio e ti spieghiamo come candidarti.",
+      "visual_brief": null
+    }
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "whatsapp",
+    "format": "image_only",
+    "image_size": "a4",
+    "target_location": null,
+    "angle": null,
+    "generated_content": {
+      "headline": "Tecnico Elettricista Fotovoltaico MT/BT per grandi impianti ⚡️",
+      "highlights": [
+        "Contratto indeterminato",
+        "RAL 32.000 € - 38.000 €",
+        "Impianti industriali MT/BT",
+        "Frequenti trasferte"
+      ],
+      "body": "C'è una grande opportunità a Orzinuovi. AB Group, leader italiano nelle rinnovabili, cerca un tecnico esperto per un ruolo a tempo indeterminato. Se hai esperienza su grandi impianti, questa è l'occasione giusta!",
+      "bullet_points": [
+        "Effettuare sopralluoghi e redigere report tecnici in cantiere.",
+        "Supportare il collaudo e l'avviamento di grandi impianti FV.",
+        "Contratto a tempo indeterminato e RAL tra 32.000 € e 38.000 €.",
+        "Richiesta esperienza da 3 a 5 anni su impianti MT/BT.",
+        "Conoscenza di cabine secondarie e sistemi BESS.",
+        "Frequenti trasferte giornaliere, con indennità per i soggiorni lunghi."
+      ],
+      "call_to_action": "Se sei interessato, mandaci subito un messaggio per saperne di più!",
+      "visual_brief": "Utilizzare i colori aziendali (verde/blu). Le etichette devono essere in evidenza in alto. Includere il logo AB Group in alto."
+    },
+    "status": "draft",
+    "edited_content": null
+  },
+  {
+    "job_offer_id": "jo_001",
+    "channel": "whatsapp",
+    "format": "text_and_image",
+    "image_size": "a4",
+    "target_location": null,
+    "angle": "stabilità e contratto a tempo indeterminato",
+    "generated_content": {
+      "headline": "Tecnico Elettricista Fotovoltaico - Stabilità e Carriera con AB Group",
+      "highlights": [
+        "Tempo indeterminato",
+        "RAL 32.000 € - 38.000 €",
+        "Impianti MT/BT",
+        "Grande Gruppo Multinazionale",
+        "Trasferte frequenti"
+      ],
+      "body": "Ehi! 🙋‍♂️ Un mio contatto ha segnalato un'opportunità davvero solida per un tecnico elettricista fotovoltaico. Se stai cercando stabilità e vuoi lavorare su impianti di grandi dimensioni (MT/BT), questa è l'occasione. L'azienda, AB Group, offre un contratto a tempo indeterminato con una RAL tra 32.000 € e 38.000 €. Ti va di scoprire cosa fa questo gruppo leader? 👇",
+      "bullet_points": [
+        "Lavorerai nella realizzazione e manutenzione di grandi impianti fotovoltaici.",
+        "Il ruolo prevede sopralluoghi tecnici, collaudi e interventi di manutenzione in campo.",
+        "Offre un contratto a tempo indeterminato e una RAL che va da 32.000 € a 38.000 €.",
+        "Le attività includono la verifica tecnica, il supporto al montaggio e il controllo qualità.",
+        "L'azienda è una multinazionale leader nella cogenerazione e nelle rinnovabili.",
+        "È richiesta esperienza di 3-5 anni su impianti sopra i 100 kW e conoscenza MT/BT."
+      ],
+      "call_to_action": "Mandami un messaggio se sei interessato a saperne di più o candidarti. 📧",
+      "visual_brief": "Il volantino A4 utilizza il logo AB Group e i colori aziendali (blu e verde scuro). Le etichette sono posizionate in alto per evidenziare i punti chiave come stabilità e retribuzione."
+    },
+    "status": "draft",
+    "edited_content": null
+  }
+]

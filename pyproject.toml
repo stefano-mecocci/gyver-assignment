@@ -1,0 +1,28 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Gyver Annunci: generate, store and edit channel-specific job ads from a job offer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.162.0",
+    "httpx>=0.28.1",
+    "huggingface-hub>=2.4.0",
+    "ollama>=0.6.3",
+    "pillow>=13.0.0",
+    "pydantic>=2.14.3",
+    "sqlalchemy>=2.1.8",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "pytest-playwright>=0.10.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "--browser firefox -m 'not llm'"
+markers = ["llm: calls the real LLM through Ollama (slow, needs the model installed)"]
+filterwarnings = ["ignore::pytest.PytestRemovedIn10Warning:_pytest.fixtures"]
